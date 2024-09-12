@@ -3,7 +3,7 @@ Projeto desenvolvido em HTML + CSS + JS com o objetivo de pontuar os fundamentos
 
 Destaque para:
 
--Funções (Arrow Functions e Callbacks)
--Funções síncronas e assíncronas
--Estruturas de dados (Objetos e JSON)
--Manipulação de DOM
+Funções (Arrow Functions e Callbacks),
+Funções síncronas e assíncronas,
+Estruturas de dados (Objetos e JSON) e 
+Manipulação de DOM
